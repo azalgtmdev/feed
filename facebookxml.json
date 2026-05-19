@@ -14,7 +14,7 @@
       "id": "NAJ-GNJ",
       "one_way_price": "35.29 USD",
       "final_url": "https://www.azal.az/az?from=NAJ&to=GNJ",
-      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BAK-NAJ.jpg?ts=621580",
+      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BAK-NAJ.jpg?ts=265733",
       "github_image_urls": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BAK-NAJ.jpg",
       "description": "Выгодные полеты на направлении Nakhchivan  - Ganja",
       "flight_description": "#N/A",
@@ -37,7 +37,7 @@
       "id": "NAJ-BAK",
       "one_way_price": "35.29 USD",
       "final_url": "https://www.azal.az/az?from=NAJ&to=BAK",
-      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/NAJ-BAK.jpg?ts=474693",
+      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/NAJ-BAK.jpg?ts=662810",
       "github_image_urls": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/NAJ-BAK.jpg",
       "description": "Выгодные полеты на направлении Nakhchivan - Baku",
       "flight_description": "#N/A",
@@ -60,7 +60,7 @@
       "id": "BAK-NAJ",
       "one_way_price": "35.29 USD",
       "final_url": "https://www.azal.az/az?from=BAK&to=NAJ",
-      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BAK-NAJ.jpg?ts=189881",
+      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BAK-NAJ.jpg?ts=196581",
       "github_image_urls": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BAK-NAJ.jpg",
       "description": "Выгодные полеты на направлении Baku - Nakhchivan",
       "flight_description": "#N/A",
@@ -83,7 +83,7 @@
       "id": "BAK-FZL",
       "one_way_price": "45.89 USD",
       "final_url": "https://www.azal.az/az?from=BAK&to=FZL",
-      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BAK-FZL.jpg?ts=199112",
+      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BAK-FZL.jpg?ts=658538",
       "github_image_urls": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BAK-FZL.jpg",
       "description": "Выгодные полеты на направлении Baku - Fuzuli",
       "flight_description": "#N/A",
@@ -159,7 +159,7 @@
       "t_destination_city": "",
       "flight_price": "653 AZN",
       "custom_label_1": "BER-LED",
-      "pricerub": "27364 RUB"
+      "pricerub": "27365 RUB"
     },
     {
       "facebook": true,
@@ -251,7 +251,7 @@
       "t_destination_city": "",
       "flight_price": "817 AZN",
       "custom_label_1": "BAK-DOH",
-      "pricerub": "34242 RUB"
+      "pricerub": "34243 RUB"
     },
     {
       "facebook": true,
@@ -274,7 +274,7 @@
       "t_destination_city": "",
       "flight_price": "452 AZN",
       "custom_label_1": "UGC-BUS",
-      "pricerub": "18949 RUB"
+      "pricerub": "18950 RUB"
     },
     {
       "facebook": true,
