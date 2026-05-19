@@ -14,13 +14,14 @@
       "id": "NAJ-GNJ",
       "one_way_price": "35.29 USD",
       "final_url": "https://www.azal.az/az?from=NAJ&to=GNJ",
-      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BAK-NAJ.jpg?ts=431967",
+      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BAK-NAJ.jpg?ts=782866",
       "github_image_urls": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BAK-NAJ.jpg",
       "description": "Выгодные полеты на направлении Nakhchivan  - Ganja",
       "flight_description": "#N/A",
       "t_destination_city": "",
       "flight_price": "",
-      "custom_label_1": "NAJ-GNJ"
+      "custom_label_1": "NAJ-GNJ",
+      "pricerub": ""
     },
     {
       "facebook": true,
@@ -36,13 +37,14 @@
       "id": "NAJ-BAK",
       "one_way_price": "35.29 USD",
       "final_url": "https://www.azal.az/az?from=NAJ&to=BAK",
-      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/NAJ-BAK.jpg?ts=684164",
+      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/NAJ-BAK.jpg?ts=493291",
       "github_image_urls": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/NAJ-BAK.jpg",
       "description": "Выгодные полеты на направлении Nakhchivan - Baku",
       "flight_description": "#N/A",
       "t_destination_city": "",
       "flight_price": "",
-      "custom_label_1": "NAJ-BAK"
+      "custom_label_1": "NAJ-BAK",
+      "pricerub": ""
     },
     {
       "facebook": true,
@@ -58,13 +60,14 @@
       "id": "BAK-NAJ",
       "one_way_price": "35.29 USD",
       "final_url": "https://www.azal.az/az?from=BAK&to=NAJ",
-      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BAK-NAJ.jpg?ts=427716",
+      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BAK-NAJ.jpg?ts=922514",
       "github_image_urls": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BAK-NAJ.jpg",
       "description": "Выгодные полеты на направлении Baku - Nakhchivan",
       "flight_description": "#N/A",
       "t_destination_city": "",
       "flight_price": "",
-      "custom_label_1": "BAK-NAJ"
+      "custom_label_1": "BAK-NAJ",
+      "pricerub": ""
     },
     {
       "facebook": true,
@@ -80,13 +83,14 @@
       "id": "BAK-FZL",
       "one_way_price": "45.89 USD",
       "final_url": "https://www.azal.az/az?from=BAK&to=FZL",
-      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BAK-FZL.jpg?ts=166654",
+      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BAK-FZL.jpg?ts=933608",
       "github_image_urls": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BAK-FZL.jpg",
       "description": "Выгодные полеты на направлении Baku - Fuzuli",
       "flight_description": "#N/A",
       "t_destination_city": "",
       "flight_price": "",
-      "custom_label_1": "BAK-FZL"
+      "custom_label_1": "BAK-FZL",
+      "pricerub": ""
     },
     {
       "facebook": true,
@@ -102,13 +106,14 @@
       "id": "BCN-TLV",
       "one_way_price": "568.22 AZN",
       "final_url": "https://www.azal.az/az?from=BCN&to=TLV",
-      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/miles-outbound.jpg?ts=95028",
-      "github_image_urls": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/miles-outbound.jpg",
+      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BCN-TLV.jpg?ts=95028",
+      "github_image_urls": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BCN-TLV.jpg",
       "description": "Выгодные полеты на направлении Barcelona - Tel Aviv -  NoNeedImage",
       "flight_description": "Barselona - Tel-Əviv Aviabileti",
       "t_destination_city": "",
       "flight_price": "568 AZN",
-      "custom_label_1": "BCN-TLV"
+      "custom_label_1": "BCN-TLV",
+      "pricerub": "23814 RUB"
     },
     {
       "facebook": true,
@@ -124,13 +129,14 @@
       "id": "BCN-ALA",
       "one_way_price": "495.78 AZN",
       "final_url": "https://www.azal.az/az?from=BCN&to=ALA",
-      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/miles-outbound.jpg?ts=118785",
-      "github_image_urls": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/miles-outbound.jpg",
+      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BCN-ALA.jpg?ts=118785",
+      "github_image_urls": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BCN-ALA.jpg",
       "description": "Выгодные полеты на направлении Barcelona - Almaty -  NoNeedImage",
       "flight_description": "Barselona - Almatı Aviabileti",
       "t_destination_city": "",
       "flight_price": "496 AZN",
-      "custom_label_1": "BCN-ALA"
+      "custom_label_1": "BCN-ALA",
+      "pricerub": "20778 RUB"
     },
     {
       "facebook": true,
@@ -146,13 +152,14 @@
       "id": "BER-LED",
       "one_way_price": "652.90 AZN",
       "final_url": "https://www.azal.az/az?from=BER&to=LED",
-      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/miles-outbound.jpg?ts=150461",
-      "github_image_urls": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/miles-outbound.jpg",
+      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BER-LED.jpg?ts=150461",
+      "github_image_urls": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BER-LED.jpg",
       "description": "Выгодные полеты на направлении Berlin - St Petersburg -  NoNeedImage",
       "flight_description": "Berlin - Sankt-Peterburq Aviabileti",
       "t_destination_city": "",
       "flight_price": "653 AZN",
-      "custom_label_1": "BER-LED"
+      "custom_label_1": "BER-LED",
+      "pricerub": "27363 RUB"
     },
     {
       "facebook": true,
@@ -168,13 +175,14 @@
       "id": "BER-DYU",
       "one_way_price": "438.61 AZN",
       "final_url": "https://www.azal.az/az?from=BER&to=DYU",
-      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/miles-outbound.jpg?ts=190056",
-      "github_image_urls": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/miles-outbound.jpg",
+      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BER-DYU.jpg?ts=190056",
+      "github_image_urls": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BER-DYU.jpg",
       "description": "Выгодные полеты на направлении Berlin - Dushanbe -  NoNeedImage",
       "flight_description": "Berlin - Düşənbə Aviabileti",
       "t_destination_city": "",
       "flight_price": "439 AZN",
-      "custom_label_1": "BER-DYU"
+      "custom_label_1": "BER-DYU",
+      "pricerub": "18382 RUB"
     },
     {
       "facebook": true,
@@ -190,13 +198,14 @@
       "id": "BER-CIT",
       "one_way_price": "618.58 AZN",
       "final_url": "https://www.azal.az/az?from=BER&to=CIT",
-      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/miles-outbound.jpg?ts=221732",
-      "github_image_urls": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/miles-outbound.jpg",
+      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BER-CIT.jpg?ts=221732",
+      "github_image_urls": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BER-CIT.jpg",
       "description": "Выгодные полеты на направлении Berlin - Shymkent -  NoNeedImage",
       "flight_description": "Berlin - Şımkənt Aviabileti",
       "t_destination_city": "",
       "flight_price": "619 AZN",
-      "custom_label_1": "BER-CIT"
+      "custom_label_1": "BER-CIT",
+      "pricerub": "25925 RUB"
     },
     {
       "facebook": true,
@@ -212,13 +221,14 @@
       "id": "BAK-THR",
       "one_way_price": "226.40 AZN",
       "final_url": "https://www.azal.az/az?from=BAK&to=THR",
-      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/miles-outbound.jpg?ts=9471124",
-      "github_image_urls": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/miles-outbound.jpg",
+      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BAK-THR.jpg?ts=9471124",
+      "github_image_urls": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BAK-THR.jpg",
       "description": "Выгодные полеты на направлении Baku - Tehran -  NoNeedImage",
       "flight_description": "Bakı - Tehran Aviabileti",
       "t_destination_city": "",
       "flight_price": "226 AZN",
-      "custom_label_1": "BAK-THR"
+      "custom_label_1": "BAK-THR",
+      "pricerub": "9489 RUB"
     },
     {
       "facebook": true,
@@ -234,13 +244,14 @@
       "id": "BAK-DOH",
       "one_way_price": "817.01 AZN",
       "final_url": "https://www.azal.az/az?from=BAK&to=DOH",
-      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/miles-outbound.jpg?ts=9486962",
-      "github_image_urls": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/miles-outbound.jpg",
+      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BAK-DOH.jpg?ts=9486962",
+      "github_image_urls": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BAK-DOH.jpg",
       "description": "Выгодные полеты на направлении Baku - Doha -  NoNeedImage",
       "flight_description": "Bakı - Doha Aviabileti",
       "t_destination_city": "",
       "flight_price": "817 AZN",
-      "custom_label_1": "BAK-DOH"
+      "custom_label_1": "BAK-DOH",
+      "pricerub": "34241 RUB"
     },
     {
       "facebook": true,
@@ -256,13 +267,14 @@
       "id": "UGC-BUS",
       "one_way_price": "452.13 AZN",
       "final_url": "https://www.azal.az/az?from=UGC&to=BUS",
-      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/miles-outbound.jpg?ts=9518638",
-      "github_image_urls": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/miles-outbound.jpg",
+      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/UGC-BUS.jpg?ts=9518638",
+      "github_image_urls": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/UGC-BUS.jpg",
       "description": "Выгодные полеты на направлении Urgench - Batumi -  NoNeedImage",
       "flight_description": "Urgenç - Batumi Aviabileti",
       "t_destination_city": "",
       "flight_price": "452 AZN",
-      "custom_label_1": "UGC-BUS"
+      "custom_label_1": "UGC-BUS",
+      "pricerub": "18949 RUB"
     },
     {
       "facebook": true,
@@ -284,7 +296,8 @@
       "flight_description": "Bakı - Barselona Aviabileti",
       "t_destination_city": "",
       "flight_price": "421 AZN",
-      "custom_label_1": "BAK-BCN"
+      "custom_label_1": "BAK-BCN",
+      "pricerub": "17641 RUB"
     }
   ]
 }
