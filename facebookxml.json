@@ -14,7 +14,7 @@
       "id": "NAJ-GNJ",
       "one_way_price": "35.29 USD",
       "final_url": "https://www.azal.az/az?from=NAJ&to=GNJ",
-      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BAK-NAJ.jpg?ts=44589",
+      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BAK-NAJ.jpg?ts=759350",
       "github_image_urls": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BAK-NAJ.jpg",
       "description": "Выгодные полеты на направлении Nakhchivan  - Ganja",
       "flight_description": "#N/A",
@@ -37,7 +37,7 @@
       "id": "NAJ-BAK",
       "one_way_price": "35.29 USD",
       "final_url": "https://www.azal.az/az?from=NAJ&to=BAK",
-      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/NAJ-BAK.jpg?ts=298408",
+      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/NAJ-BAK.jpg?ts=680940",
       "github_image_urls": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/NAJ-BAK.jpg",
       "description": "Выгодные полеты на направлении Nakhchivan - Baku",
       "flight_description": "#N/A",
@@ -60,7 +60,7 @@
       "id": "BAK-NAJ",
       "one_way_price": "35.29 USD",
       "final_url": "https://www.azal.az/az?from=BAK&to=NAJ",
-      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BAK-NAJ.jpg?ts=821570",
+      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BAK-NAJ.jpg?ts=992076",
       "github_image_urls": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BAK-NAJ.jpg",
       "description": "Выгодные полеты на направлении Baku - Nakhchivan",
       "flight_description": "#N/A",
@@ -83,7 +83,7 @@
       "id": "BAK-FZL",
       "one_way_price": "45.89 USD",
       "final_url": "https://www.azal.az/az?from=BAK&to=FZL",
-      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BAK-FZL.jpg?ts=908613",
+      "image_url": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BAK-FZL.jpg?ts=599927",
       "github_image_urls": "https://raw.githubusercontent.com/azalgtmdev/feed/main/images/no_price/BAK-FZL.jpg",
       "description": "Выгодные полеты на направлении Baku - Fuzuli",
       "flight_description": "#N/A",
@@ -113,7 +113,7 @@
       "t_destination_city": "",
       "flight_price": "568 AZN",
       "custom_label_1": "BCN-TLV",
-      "pricerub": "23796 RUB"
+      "pricerub": "23797 RUB"
     },
     {
       "facebook": true,
@@ -136,7 +136,7 @@
       "t_destination_city": "",
       "flight_price": "496 AZN",
       "custom_label_1": "BCN-ALA",
-      "pricerub": "20763 RUB"
+      "pricerub": "20764 RUB"
     },
     {
       "facebook": true,
@@ -159,7 +159,7 @@
       "t_destination_city": "",
       "flight_price": "653 AZN",
       "custom_label_1": "BER-LED",
-      "pricerub": "27342 RUB"
+      "pricerub": "27344 RUB"
     },
     {
       "facebook": true,
@@ -182,7 +182,7 @@
       "t_destination_city": "",
       "flight_price": "439 AZN",
       "custom_label_1": "BER-DYU",
-      "pricerub": "18368 RUB"
+      "pricerub": "18369 RUB"
     },
     {
       "facebook": true,
@@ -205,7 +205,7 @@
       "t_destination_city": "",
       "flight_price": "619 AZN",
       "custom_label_1": "BER-CIT",
-      "pricerub": "25905 RUB"
+      "pricerub": "25906 RUB"
     },
     {
       "facebook": true,
@@ -228,7 +228,7 @@
       "t_destination_city": "",
       "flight_price": "226 AZN",
       "custom_label_1": "BAK-THR",
-      "pricerub": "9481 RUB"
+      "pricerub": "9482 RUB"
     },
     {
       "facebook": true,
@@ -251,7 +251,7 @@
       "t_destination_city": "",
       "flight_price": "817 AZN",
       "custom_label_1": "BAK-DOH",
-      "pricerub": "34215 RUB"
+      "pricerub": "34217 RUB"
     },
     {
       "facebook": true,
@@ -297,7 +297,7 @@
       "t_destination_city": "",
       "flight_price": "421 AZN",
       "custom_label_1": "BAK-BCN",
-      "pricerub": "17628 RUB"
+      "pricerub": "17629 RUB"
     }
   ]
 }
